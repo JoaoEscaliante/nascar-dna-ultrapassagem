@@ -23,9 +23,9 @@ prevê vitórias melhor do que volume bruto (r=0,35).
 
 ## Visualizações:
 
-![Ranking PassDiff](outputs/passo5_ranking_passdiff.png)
-![Quadrante de Perfis](outputs/passo8_quadrante_perfis.png)
-![Campeão por Temporada](outputs/grafico_campeao_por_temporada.png)
+![Ranking PassDiff](passo5_ranking_passdiff.png)
+![Quadrante de Perfis](passo8_quadrante_perfis.png)
+![Campeão por Temporada](grafico_campeao_por_temporada.png)
 
 ## Stack
 
